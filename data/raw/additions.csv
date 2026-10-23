@@ -1,0 +1,85 @@
+review_id,ticker,company_name,notes
+R01,A4N,Alpha HPA Limited,
+R01,CTT,Cettire Limited,Removed September 2025
+R01,EMR,Emerald Resources NL,
+R01,GMD,Genesis Minerals Limited,
+R01,HCW,HealthCo Healthcare and Wellness REIT,Removed September 2025
+R01,MAQ,Macquarie Technology Group Limited,
+R01,PMT,Patriot Battery Metals Inc.,Foreign incorporation / CDI
+R01,QRI,Qualitas Real Estate Income Fund,REIT / Listed Trust
+R01,SMR,Stanmore Resources Limited,
+R01,VSL,Vulcan Steel Limited,Foreign dual-listing / NZ
+R02,BMN,Bannerman Energy Limited,
+R02,DVP,Develop Global Limited,
+R02,LOT,Lotus Resources Limited,
+R02,LRS,Latin Resources Limited,
+R02,MEI,Meteoric Resources NL,Removed March 2025
+R02,MRM,MMA Offshore Limited,Acquired / delisted July 2024
+R02,MVF,Monash IVF Group Limited,Removed September 2025
+R02,NXG,NexGen Energy (Canada) Limited,Foreign CDI
+R02,PDI,Predictive Discovery Limited,
+R02,PFP,Propel Funeral Partners Limited,
+R02,RDX,Redox Limited,IPO July 2023
+R02,REG,Regis Healthcare Limited,
+R02,TUA,Tuas Limited,
+R02,WC8,Wildcat Resources Limited,Removed March 2025
+R03,CSC,Capstone Copper Corp.,Foreign CDI / TSX dual-listed
+R03,CU6,Clarity Pharmaceuticals Limited,
+R03,DRO,DroneShield Limited,
+R03,GTK,Gentrack Group Limited,NZX dual-listed
+R03,GYG,Guzman Y Gomez Limited,IPO June 2024; check stage coverage
+R03,IFT,Infratil Limited,NZX dual-listed
+R03,IMM,Immutep Limited,
+R03,IPX,IperionX Limited,
+R03,MAC,Metals Acquisition Limited,CDI / NYSE dual-listed
+R03,NXL,Nuix Limited,Removed March 2026
+R03,OPT,Opthea Limited,Removed September 2025
+R03,RUL,RPMGlobal Holdings Limited,
+R03,SLC,Superloop Limited,
+R03,SPR,Spartan Resources Limited,
+R03,WA1,WA1 Resources Limited,
+R03,YAL,Yancoal Australia Limited,
+R04,BOT,Botanix Pharmaceuticals Limited,
+R04,CAT,Catapult Group International Limited,
+R04,CYL,Catalyst Metals Limited,
+R04,DGT,DigiCo Infrastructure REIT,IPO Dec 2024; check stage coverage
+R04,EQT,EQT Holdings Limited,
+R04,GDG,Generation Development Group Limited,
+R04,MYR,Myer Holdings Limited,
+R04,OBM,Ora Banda Mining Limited,
+R04,PNR,Pantoro Limited,
+R04,SNL,Supply Network Limited,
+R04,SRG,SRG Global Limited,
+R05,ALK,Alkane Resources Limited,
+R05,APZ,Aspen Group,
+R05,BC8,Black Cat Syndicate Limited,
+R05,BVS,Bravura Solutions Limited,
+R05,CBO,Cobram Estate Olives Limited,
+R05,EOS,Electro Optic Systems Holdings Limited,
+R05,FFM,Firefly Metals Limited,
+R05,GGP,Greatland Resources Limited,
+R05,GQG,GQG Partners Inc.,Foreign CDI
+R05,KCN,Kingsgate Consolidated Limited,
+R05,OCL,Objective Corporation Limited,
+R05,QOR,Qoria Limited,
+R05,RPL,Regal Partners Limited,
+R05,SGLLV,Ricegrowers Limited,B-class non-voting shares
+R05,SX2,Southern Cross Gold Consolidated Limited,
+R05,UNI,Universal Store Holdings Limited,
+R05,VGN,Virgin Australia Holdings Limited,Relisting / check trading history
+R06,4DX,4DMedical Limited,
+R06,ARU,Arafura Rare Earths Limited,Re-entry; record prior membership
+R06,DPM,DPM Metals Inc.,Foreign CDI
+R06,DTR,Dateline Resources Limited,
+R06,ELS,Elsight Limited,
+R06,ELV,Elevra Lithium Limited,
+R06,GLF,GemLife Communities Group,
+R06,L1G,L1 Group Limited,
+R06,MAH,Macmahon Holdings,
+R06,MEK,Meeka Metals Limited,
+R06,MI6,Minerals 260 Limited,
+R06,MLX,Metals X Limited,
+R06,SBM,St Barbara Limited,Re-entry; record prior membership
+R06,SMI,Santana Minerals Limited,
+R06,SRL,Sunrise Energy Metals Limited,
+R06,TCG,Turaco Gold Limited,

@@ -1,0 +1,4 @@
+"test","F","df1","df2","p","model"
+"All three aggregated pre-bin changes=0",0.459831738274873,3,177,0.710695566263198,"pooled"
+"All three aggregated pre-bin changes=0",0.448199300264583,3,177,0.718880207841483,"heterogeneous"
+"All 18 review-specific pre-bin changes=0",1.34662063866376,18,177,0.164297522590942,"heterogeneous"

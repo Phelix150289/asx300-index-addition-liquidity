@@ -1,0 +1,235 @@
+﻿review_id,ticker,company_name,indices,actions,announcement_date,rebalance_close_date,effective_date,source_url,screen_flag
+R01,29M,29Metals Limited,ASX300,Removal,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,5EA,5E Advanced Materials Inc.,ASX300,Removal,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,A4N,Alpha HPA Limited,ASX300,Addition,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,AAC,Australian Agricultural Company Limited,ASX300,Removal,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,ABG,Abacus Group,ASX200,Removal,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,ASK,Abacus Storage King,ASX200,Removal,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,BBN,Baby Bunting Group Limited,ASX300,Removal,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,BRN,BrainChip Holdings Limited,ASX200,Removal,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,CTT,Cettire Limited,ASX300,Addition,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,DTL,Data#3 Limited,ASX200,Addition,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,EMR,Emerald Resources NL,ASX300,Addition,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,GMD,Genesis Minerals Limited,ASX200;ASX300,Addition,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,HAS,Hastings Technology Metals Limited,ASX300,Removal,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,HCW,HealthCo Healthcare and Wellness REIT,ASX300,Addition,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,HVN,Harvey Norman Holdings Limited,ASX100,Removal,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,IHL,Incannex Healthcare Limited,ASX300,Removal,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,IMU,Imugene Limited,ASX200,Removal,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,JRV,Jervois Global Limited,ASX300,Removal,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,LKE,Lake Resources N.L.,ASX200,Removal,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,LTR,Liontown Resources Limited,ASX100,Addition,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,MAQ,Macquarie Technology Group Limited,ASX300,Addition,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,NEU,Neuren Pharmaceuticals Limited,ASX200,Addition,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,PMT,Patriot Battery Metals Inc.,ASX300,Addition,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,QRI,Qualitas Real Estate Income Fund,ASX300,Addition,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,RMS,Ramelius Resources Limited,ASX200,Addition,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,SBM,St Barbara Limited,ASX300,Removal,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,SMR,Stanmore Resources Limited,ASX300,Addition,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,SYR,Syrah Resources Limited,ASX200,Removal,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,VSL,Vulcan Steel Limited,ASX300,Addition,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R01,WBT,Weebit Nano Limited,ASX200,Addition,01-09-23,15-09-23,18-09-23,https://announcements.asx.com.au/asxpdf/20230901/pdf/05tflr1n3f8h00.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,AD8,Audinate Group Limited,ASX200,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,AGY,Argosy Minerals Limited,ASX300,Removal,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,APX,Appen Limited,ASX300,Removal,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,AWC,Alumina Limited,ASX100,Removal,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,BCB,Bowen Coking Coal Limited,ASX300,Removal,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,BMN,Bannerman Energy Limited,ASX300,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,CHN,Chalice Mining Limited,ASX200,Removal,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,CXO,Core Lithium Limited,ASX200,Removal,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,DVP,Develop Global Limited,ASX300,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,FLT,Flight Centre Travel Group Limited,ASX100,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,LKE,Lake Resources N.L.,ASX300,Removal,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,LLL,Leo Lithium Limited,ASX300,Removal,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,LOT,Lotus Resources Limited,ASX300,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,LRS,Latin Resources Limited,ASX300,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,MEI,Meteoric Resources NL,ASX300,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,MRM,MMA Offshore Limited,ASX300,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,MVF,Monash IVF Group Limited,ASX300,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,NEM,Newmont Corporation,ASX20,Removal,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,NMT,Neometals Limited,ASX300,Removal,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,NXG,NexGen Energy (Canada) Limited,ASX300,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,PBH,PointsBet Holdings Limited,ASX300,Removal,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,PDI,Predictive Discovery Limited,ASX300,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,PFP,Propel Funeral Partners Limited,ASX300,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,PME,Pro Medicus Limited,ASX100,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,QBE,QBE Insurance Group Limited,ASX20,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,RDX,Redox Limited,ASX300,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,RED,Red 5 Limited,ASX200,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,REG,Regis Healthcare Limited,ASX300,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,RGN,Region Group,ASX100,Removal,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,SDR,SiteMinder Limited,ASX200,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,SMR,Stanmore Resources Limited,ASX200,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,SSR,SSR Mining Inc.,ASX300,Removal,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,SVR,Solvar Limited,ASX300,Removal,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,SWM,Seven West Media Limited,ASX300,Removal,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,SYA,Sayona Mining Limited,ASX200,Removal,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,TUA,Tuas Limited,ASX300,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,WBT,Weebit Nano Limited,ASX200,Removal,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R02,WC8,Wildcat Resources Limited,ASX300,Addition,01-03-24,15-03-24,18-03-24,https://announcements.asx.com.au/asxpdf/20240301/pdf/0612fvkjn9yy1v.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,CSC,Capstone Copper Corp.,ASX300,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,CU6,Clarity Pharmaceuticals Limited,ASX300,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,CXL,Calix Limited,ASX300,Removal,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,CXO,Core Lithium Limited,ASX300,Removal,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,DHG,Domain Holdings Australia Limited,ASX200,Removal,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,DMP,Domino's Pizza Enterprises Limited,ASX100,Removal,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,DRO,DroneShield Limited,ASX300,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,GDI,GDI Property Group,ASX300,Removal,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,GRR,Grange Resources Limited,ASX300,Removal,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,GTK,Gentrack Group Limited,ASX300,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,GYG,Guzman Y Gomez Limited,ASX200;ASX300,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,HUB,HUB24 Limited,ASX100,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,IFT,Infratil Limited,ASX300,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,IMM,Immutep Limited,ASX300,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,IPX,IperionX Limited,ASX300,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,LTM,Arcadium Lithium PLC,ASX100,Removal,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,MAC,Metals Acquisition Limited,ASX300,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,NAN,Nanosonics Limited,ASX200,Removal,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,NXL,Nuix Limited,ASX300,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,OBL,Omni Bridgeway Limited,ASX300,Removal,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,OPT,Opthea Limited,ASX300,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,RNU,Renascor Resources Limited,ASX300,Removal,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,RUL,RPMGlobal Holdings Limited,ASX300,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,SFR,Sandfire Resources Limited,ASX100,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,SLC,Superloop Limited,ASX300,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,SPR,Spartan Resources Limited,ASX300,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,STX,Strike Energy Limited,ASX200,Removal,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,TER,TerraCom Limited,ASX300,Removal,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,TLG,Talga Group Limited,ASX300,Removal,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,WA1,WA1 Resources Limited,ASX300,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,WGX,Westgold Resources Limited,ASX200,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R03,YAL,Yancoal Australia Limited,ASX200;ASX300,Addition,06-09-24,20-09-24,23-09-24,https://announcements.asx.com.au/asxpdf/20240906/pdf/067m6bvp9h4gjw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,360,Life360 Inc.,ASX100,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,AD8,Audinate Group Limited,ASX200,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,ARU,Arafura Rare Earths Limited,ASX300,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,BOT,Botanix Pharmaceuticals Limited,ASX300,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,CAT,Catapult Group International Limited,ASX300,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,CKF,Collins Foods Limited,ASX200,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,CQE,Charter Hall Social Infrastructure REIT,ASX200,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,CRN,Coronado Global Resources Inc.,ASX200,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,CSC,Capstone Copper Corp.,ASX200,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,CYL,Catalyst Metals Limited,ASX300,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,DGT,DigiCo Infrastructure REIT,ASX200;ASX300,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,EQT,EQT Holdings Limited,ASX300,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,GDG,Generation Development Group Limited,ASX300,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,ILU,Iluka Resources Limited,ASX100,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,IMD,Imdex Limited,ASX200,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,IMU,Imugene Limited,ASX300,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,JLG,Johns Lyng Group Limited,ASX200,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,KLS,Kelsian Group Limited,ASX200,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,MAQ,Macquarie Technology Group Limited,ASX200,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,MEI,Meteoric Resources NL,ASX300,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,MIN,Mineral Resources Limited,ASX50,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,MYR,Myer Holdings Limited,ASX300,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,NHF,NIB Holdings Limited,ASX100,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,NXL,Nuix Limited,ASX200,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,OBM,Ora Banda Mining Limited,ASX300,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,PME,Pro Medicus Limited,ASX50,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,PNR,Pantoro Limited,ASX300,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,RHC,Ramsay Health Care Limited,ASX50,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,SGR,The Star Entertainment Group Limited,ASX200,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,SIG,Sigma Healthcare Limited,ASX50;ASX100,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,SNL,Supply Network Limited,ASX300,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,SPR,Spartan Resources Limited,ASX200,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,SRG,SRG Global Limited,ASX300,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,SYA,Sayona Mining Limited,ASX300,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,SYR,Syrah Resources Limited,ASX300,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,TPW,Temple & Webster Group Limited,ASX200,Addition,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,WC8,Wildcat Resources Limited,ASX300,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R04,WJL,Webjet Group Limited,ASX300,Removal,07-03-25,21-03-25,24-03-25,https://announcements.asx.com.au/asxpdf/20250307/pdf/06gd4m9yj6jnvw.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,ALK,Alkane Resources Limited,ASX300,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,AOV,Amotiv Limited,ASX200,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,APZ,Aspen Group,ASX300,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,BC8,Black Cat Syndicate Limited,ASX300,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,BVS,Bravura Solutions Limited,ASX300,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,CBO,Cobram Estate Olives Limited,ASX300,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,CCP,Credit Corp Group Limited,ASX200,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,CRN,Coronado Global Resources Inc.,ASX300,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,CTT,Cettire Limited,ASX300,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,CU6,Clarity Pharmaceuticals Limited,ASX200,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,DBI,Dalrymple Bay Infrastructure Limited,ASX200,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,DRO,DroneShield Limited,ASX200,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,EBO,Ebos Group Limited,ASX200,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,EOS,Electro Optic Systems Holdings Limited,ASX300,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,FFM,Firefly Metals Limited,ASX300,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,FLT,Flight Centre Travel Group Limited,ASX100,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,GGP,Greatland Resources Limited,ASX200;ASX300,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,GMD,Genesis Minerals Limited,ASX100,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,GQG,GQG Partners Inc.,ASX200;ASX300,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,HCW,HealthCo Healthcare and Wellness REIT,ASX300,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,IEL,IDP Education Limited,ASX100,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,INR,Ioneer Limited,ASX300,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,IPX,IperionX Limited,ASX200,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,KCN,Kingsgate Consolidated Limited,ASX300,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,KGN,Kogan.Com Limited,ASX300,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,LIC,Lifestyle Communities Limited,ASX200,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,MAQ,Macquarie Technology Group Limited,ASX200,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,MVF,Monash IVF Group Limited,ASX300,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,NUF,Nufarm Limited,ASX200,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,NVX,Novonix Limited,ASX300,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,NWL,Netwealth Group Limited,ASX100,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,NXL,Nuix Limited,ASX200,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,OCL,Objective Corporation Limited,ASX300,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,OFX,OFX Group Limited,ASX300,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,OPT,Opthea Limited,ASX300,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,ORA,Orora Limited,ASX100,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,PNV,PolyNovo Limited,ASX200,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,PRN,Perenti Limited,ASX200,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,PTM,Platinum Asset Management Limited,ASX300,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,QOR,Qoria Limited,ASX300,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,RMS,Ramelius Resources Limited,ASX100,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,RPL,Regal Partners Limited,ASX300,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,SGLLV,Ricegrowers Limited,ASX300,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,SGR,The Star Entertainment Group Limited,ASX300,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,SIQ,Smartgroup Corporation Limited,ASX200,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,SKC,SkyCity Entertainment Group Limited,ASX300,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,SLC,Superloop Limited,ASX200,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,SX2,Southern Cross Gold Consolidated Limited.,ASX300,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,TNE,Technology One Limited,ASX50,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,TUA,Tuas Limited,ASX200,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,TWE,Treasury Wine Estates Limited,ASX50,Removal,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,UNI,Universal Store Holdings Limited,ASX300,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R05,VGN,Virgin Australia Holdings Limited,ASX300,Addition,05-09-25,19-09-25,22-09-25,https://announcements.asx.com.au/asxpdf/20250905/pdf/06nwybq98lf9h0.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,4DX,4DMedical Limited,ASX300,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,AD8,Audinate Group Limited,ASX300,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,ADH,Adairs Limited,ASX300,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,ARU,Arafura Rare Earths Limited,ASX300,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,AX1,Accent Group Limited,ASX300,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,BOT,Botanix Pharmaceuticals Limited,ASX300,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,BRN,BrainChip Holdings Limited,ASX300,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,CAT,Catapult Sports Limited,ASX200,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,COF,Centuria Office REIT,ASX300,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,DGT,DigiCo Infrastructure REIT,ASX200,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,DPM,DPM Metals Inc.,ASX300,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,DTR,Dateline Resources Limited,ASX300,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,EBO,EBOS Group Limited,ASX200,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,ELS,Elsight Limited,ASX300,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,ELV,Elevra Lithium Limited,ASX300,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,GGP,Greatland Resources Limited,ASX100,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,GLF,GemLife Communities Group,ASX300,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,L1G,L1 Group Limited,ASX300,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,LLC,Lendlease Group,ASX100,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,LNW,Light & Wonder Inc.,ASX50,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,MAH,Macmahon Holdings Limited,ASX300,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,MEK,Meeka Metals Limited,ASX300,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,MI6,Minerals 260 Limited,ASX300,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,MLX,Metals X Limited,ASX300,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,MYX,Mayne Pharma Group Limited,ASX300,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,NST,Northern Star Resources Limited,ASX20,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,NWL,Netwealth Group Limited,ASX100,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,NXL,Nuix Limited,ASX300,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,PDI,Predictive Discovery Limited,ASX200,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,PLS,PLS Group Limited,ASX50,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,PNI,Pinnacle Investment Management Group Limited,ASX100,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,RRL,Regis Resources Limited,ASX100,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,SBM,St Barbara Limited,ASX300,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,SEK,Seek Limited,ASX50,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,SMI,Santana Minerals Limited,ASX300,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,SRG,SRG Global Limited,ASX200,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,SRL,Sunrise Energy Metals Limited,ASX300,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,STO,Santos Limited,ASX20,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,STX,Strike Energy Limited,ASX300,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,TCG,Turaco Gold Limited,ASX300,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,TNE,Technology One Limited,ASX50,Removal,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,VUL,Vulcan Energy Resources Limited,ASX200,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE
+R06,WGX,Westgold Resources Limited,ASX100,Addition,06-03-26,20-03-26,23-03-26,https://wcsecure.weblink.com.au/pdf/ARU/03065624.pdf,SAME_REVIEW_INDEX_CHANGE

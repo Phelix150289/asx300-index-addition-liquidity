@@ -1,0 +1,7 @@
+Validation completed on 23 October 2026.
+All six daily inputs match the final report input MD5 fingerprints.
+The packaged script successfully discovered its adjacent data folder and completed all enabled analyses.
+All seven supplied reference CSV tables reproduced within numerical tolerance (relative 1e-8, absolute 1e-10).
+Retained sample: 77 groups, 231 stock-review units, 1,386 stage observations, 187 ticker clusters.
+Main AP / SP / LP effects: -39.181418% / -32.087023% / -22.575590%.
+R and package versions are recorded in expected_results/R_session_info.txt.

@@ -1,0 +1,11 @@
+Main cap: baseline
+Baseline: -40:-21; volatility: -60:-41
+Groups: 77 ; ticker clusters: 187 ; window rows: 1386 ; full rank: 656
+Main Y = log(mean daily Amihud within window). No filling. Zero volume invalid.
+Whole matched groups excluded if any required window/covariate is invalid; see QA files.
+WLS observation weights: treated 1, each control 0.5; aggregation weights: addition counts.
+Ticker-clustered CR1; t/F degrees of freedom = number of clusters minus one.
+Holm families: five non-baseline window effects; separately three post-window contrasts.
+P99 robustness uses a fixed pooled daily pre-period cutoff (-60:-21).
+Strict80 sensitivity also requires 16/20 valid baseline-cap observations.
+Pre-trend non-rejection does not establish parallel trends or rule out anticipation.

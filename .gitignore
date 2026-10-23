@@ -1,0 +1,24 @@
+# Secrets and credentials (NEVER commit)
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Heavy API caches and intermediate scratch files (rebuilt by pipeline)
+data/cache/
+data/eodhd_cache/
+data/interim/
+
+# Legacy / duplicate backup archives
+archive/
+
+# Python / R / OS artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+Thumbs.db

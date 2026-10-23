@@ -75,8 +75,8 @@ Running `code/08_run_asx300_analysis.R` writes regression tables to `output/tabl
 | **Long Post-Effective (`LP`)** | $[+31, +60]$ | $-0.2559$ | $0.0940$ | **$-22.58\%$** | **$0.0213$** |
 
 - **Sample Verification:** `77` matched groups, `231` stock-review units (`77` additions + `154` controls), `1,386` stage observations, `187` unique ticker clusters (`output/tables/sample_counts_and_review_weights.csv`).
-- **Pre-Trend Joint Test:** $F(3, 186) = 0.7279, p = 0.5365$ in the heterogeneous specification (`output/tables/pretrend_joint_tests.csv`), supporting parallel pre-announcement trends.
-- **Post-Rebalance Persistence Test (`SP = LP = 0`):** $F(2, 186) = 10.7216, p = 3.92 \times 10^{-5}$ (`output/tables/homogeneity_and_joint_tests.csv`).
+- **Pre-Trend Joint Tests (Table 4):** $p = 0.711$ (pooled common bin changes), $p = 0.719$ (event-weighted bin changes), and $p = 0.164$ (all 18 review-specific bin changes) across the four 10-day pre-event bins $[-60, -21]$ (`output/tables/pretrend_joint_tests.csv`).
+- **Post-Rebalance Persistence & Reversion (Table 6):** `LP - AP` log contrast $+0.241$ ($+27.3\%$ ratio change, $p_{\text{Holm}} = 0.014$); joint test `SP = LP = 0` gives $F(2, 186) = 10.7216, p = 3.92 \times 10^{-5}$ (`output/tables/homogeneity_and_joint_tests.csv`).
 - **Cryptographic Checksums:** Full SHA-256 hashes for all data and output files are recorded in `docs/MANIFEST_SHA256.csv`.
 
 ---
